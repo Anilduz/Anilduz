@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+
+I graduated from Istanbul Aydın University Computer Programming and continue my undergraduate education in the Department of Management Information Systems.
+
+
 <!--
 **Anilduz/anilduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+If you have a talent, show it to everyone so that everyone knows who you are.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
